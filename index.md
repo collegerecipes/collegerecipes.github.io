@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to college recipes!
+You can find all your college recipe needs here such as
+- sweet
+- savory
+- basic
+and all your other favorites!
+Be sure to like us on instagram and follow our snapchats
 
 You can use the [editor on GitHub](https://github.com/collegerecipes/collegerecipes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
