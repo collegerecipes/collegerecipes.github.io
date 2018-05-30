@@ -1,1 +1,10 @@
-remote_theme: "mmistakes/minimal-mistakes"
+# Theme
+remote_theme                : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin       : "default"
+
+# Site Settings
+title                       : "College Recipes"
+name                        : "Aliya"
+description                 : "(cool kids only)"
+
+
