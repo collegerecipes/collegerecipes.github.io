@@ -1,3 +1,4 @@
-# Recipes!
-## Welcome to the recipe page!
-
+---
+layout: home
+author_profile: true
+---
