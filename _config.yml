@@ -1,6 +1,6 @@
 # Theme
 remote_theme                : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin       : "mint"
+minimal_mistakes_skin       : "air"
 
 # Site Settings
 title                       : "College Recipes"
