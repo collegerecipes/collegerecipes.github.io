@@ -1,9 +1,9 @@
 ---
-title: "Sugar "
+title: "Sugar Cube"
 excerpt: "Authentic sugar embodying the spatio-geometric form"
 header:
-  image: /assets/images/water_cup.jpg
-  teaser: assets/images/water_cup.jpg
+  image: /assets/images/sugar_cube/rawpixel-574830-unsplash.jpg
+  teaser: assets/images/sugar_cube/rawpixel-574830-unsplash.jpg
 ---
 
 # Find a sugar cube
