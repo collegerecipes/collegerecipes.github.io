@@ -15,10 +15,10 @@ include:
 
 # Collections
 collections:
-    sweet:
+    savory:
         output: true
         permalink: /:collection/:path/
-    savory:
+    sweet:
         output: true
         permalink: /:collection/:path/
     basic:
@@ -31,6 +31,22 @@ defaults:
     - scope:
         path: ""
         type: savory
+      values:
+        layout: single
+        author_profile: false
+        share: false
+    # _sweet
+    - scope:
+        path: ""
+        type: sweet
+      values:
+        layout: single
+        author_profile: false
+        share: false
+    # _basic
+    - scope:
+        path: ""
+        type: basic
       values:
         layout: single
         author_profile: false
