@@ -2,8 +2,8 @@
 title: "Sauce Béchamel"
 excerpt: "Base for many dishes"
 header:
-  image: /assets/images/water_cup.jpg
-  teaser: assets/images/water_cup.jpg
+  image: /assets/images/bechamel.jpeg
+  teaser: assets/images/bechamel.jpeg
 ---
 Ingredients
 
