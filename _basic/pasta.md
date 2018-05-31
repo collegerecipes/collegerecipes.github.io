@@ -14,6 +14,10 @@ Directions
 
 1. Create a well with your flour 
 2. Add the egg in the middle of the well, and gently incoporate the flour from the outer well to inside the well
+
+![nope](/assets/images/pasta_recipe/pasta_two.jpg)
+## Pasta Well
+
 3. Knead your dough energetically until you obtain a smooth and elasticky dough
 4. Add some water if your dough is too dry 
 5. Use a pasta rolling machine or a roller pin to flatten your pasta
