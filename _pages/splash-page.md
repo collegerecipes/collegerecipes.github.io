@@ -10,7 +10,7 @@ header:
   caption: "Photo by Patrick Fore on Unsplash"
 excerpt: "Grab your grocery list and an empty stomach because you're about to explore something cooler than the top 10 bread varieties or which pasta garnish you are"
 intro: 
-  - excerpt: '(you wont believe number 3)'
+  - excerpt: '(cool kids only)'
 feature_row:
   - image_path: assets/images/pasta.jpg
     image_caption: "Photo by Sestrjevitovschii Ina on Unsplash"
