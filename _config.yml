@@ -12,3 +12,15 @@ description                 : "(cool kids only)"
 include:
     - .htaccess
     - _pages
+
+# Collections
+collections:
+    sweet:
+        output: true
+        permalink: /:collection/:path/
+    savory:
+        output: true
+        permalink: /:collection/:path/
+    basic:
+        output: true
+        permalink: /:collection/:path/
