@@ -2,8 +2,8 @@
 title: "Fresh Pasta"
 excerpt: "One recipe, endless possibilities"
 header:
-  image: /assets/images/pasta_recipe/pasta_two.jpeg
-  teaser: assets/images/pasta_recipe/pasta_two.jpeg
+  image: /assets/images/pasta_recipe/pasta_two.jpg
+  teaser: assets/images/pasta_recipe/pasta_two.jpg
 ---
 Ingredients (per person)
 
