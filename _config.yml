@@ -13,6 +13,10 @@ include:
     - .htaccess
     - _pages
 
+# Plugins
+plugins:
+  - jemoji
+
 # Collections
 collections:
     savory:
