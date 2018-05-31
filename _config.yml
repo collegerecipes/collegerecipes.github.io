@@ -8,3 +8,7 @@ name                        : "Aliya"
 description                 : "(cool kids only)"
 
 
+# Reading Files
+include:
+    - .htaccess
+    - _pages
