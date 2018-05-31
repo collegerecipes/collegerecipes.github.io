@@ -1,11 +1,18 @@
-Recipe
-Béchamel Sauce
+---
+title: "Sauce Béchamel"
+excerpt: "Base for many dishes"
+header:
+  image: /assets/images/water_cup.jpg
+  teaser: assets/images/water_cup.jpg
+---
 Ingredients
+
 * 40g butter
 * 2 tablespoons of flour 
 * 3/4L of milk at room temperature (3 cups)
 * Salt, pepper, and nutmeg
 Directions
+
 1. In a saucepan, melt your butter at medium heat 
 2. Add the flour and cook for about 3 minutes until the flour becomes brownish 
 3. Add your milk one table spoon at a time and mix until the texture if homogenous 
