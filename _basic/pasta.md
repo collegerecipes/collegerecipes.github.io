@@ -1,8 +1,8 @@
 title: "Fresh Pasta"
 excerpt: "One recipe, endless possibilities"
 header:
-  image: /assets/images/pasta_one.jpeg
-  teaser: assets/images/pasta_one.jpeg
+  image: /assets/images/pasta_two.jpeg
+  teaser: assets/images/pasta_two.jpeg
 ---
 Ingredients (per person)
 
@@ -15,7 +15,7 @@ Directions
 1. Create a well with your flour 
 2. Add the egg in the middle of the well, and gently incoporate the flour from the outer well to inside the well
 
-![nope](/assets/images/pasta_recipe/pasta_two.jpg)
+![nope](/assets/images/pasta_recipe/pasta_one.jpg)
 ## Pasta Well
 
 3. Knead your dough energetically until you obtain a smooth and elasticky dough
