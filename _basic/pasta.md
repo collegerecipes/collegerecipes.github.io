@@ -1,15 +1,14 @@
 title: "Fresh Pasta"
 excerpt: "One recipe, endless possibilities"
 header:
-  image: /assets/images/bechamel.jpeg
-  teaser: assets/images/bechamel.jpeg
+  image: /assets/images/pasta_one.jpeg
+  teaser: assets/images/pasta_one.jpeg
 ---
-Ingredients
+Ingredients (per person)
 
-* 40g butter
-* 2 tablespoons of flour 
-* 3/4L of milk at room temperature (3 cups)
-* Salt, pepper, and nutmeg
+* 100g flour
+* 1 egg
+* 1 table spoon of water (optional)
 
 Directions
 
