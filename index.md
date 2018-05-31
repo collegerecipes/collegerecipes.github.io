@@ -14,17 +14,23 @@ feature_row:
     image_caption: "Photo by Sestrjevitovschii Ina on Unsplash"
     url: "/savory/"
     title: "Savory"
-    excerpt: "Click here to find some savory recipes"
+    excerpt: "Spin up something that makes your mouth compete with Niagara"
+    btn_label: "Recipes"
+    btn_class: "btn--primary"
   - image_path: /assets/images/waffles.jpg
     image_caption: "Photo by Lindsay Moe on Unsplash"
     url: "/sweet/"
     title: "Sweet"
     excerpt: "Impress your friends and destroy your enemies with these sweet units"
+    btn_label: "Recipes"
+    btn_class: "btn--primary"
   - image_path: /assets/images/berries_cream.jpg
     image_caption: "Photo by Adrienne Leonard on Unsplash"
     url: "/basic/"
     title: "Basic"
     excerpt: "Things yo momma should have told you"
+    btn_label: "Recipes"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
