@@ -10,7 +10,7 @@ excerpt: "Grab your grocery list and an empty stomach because you're about to ex
 intro: 
   - excerpt: '(cool kids only)'
 feature_row:
-  - image_path: [assets/images/pasta.jpg](/savory/)
+  - image_path: [![pasta not found](assets/images/pasta.jpg)](/savory/)
     image_caption: "Photo by Sestrjevitovschii Ina on Unsplash"
     url: "/savory/"
     title: "Savory"
