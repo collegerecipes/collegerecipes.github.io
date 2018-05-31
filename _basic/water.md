@@ -8,7 +8,9 @@ header:
 
 Great stuff
 
-1. put the water in a cup
-2. drink the water
+1. Put the water in a cup
+2. Chill for a little bit, preferably with your cool pals
+3. Garnish with authentic gold dust
+4. Drink the water
 
 It doesn't get easier than this, that's literally all you do, enjoy!
