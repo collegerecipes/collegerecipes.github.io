@@ -4,7 +4,8 @@ excerpt: "Fragrance of the spirit before fragrance of tea-茶の花香より気�
 header:
   image: /assets/images/matcha_cake.jpg
   teaser: assets/images/matcha_cake.jpg
-  ---
+---
+
 Ingredients
 
 For the Cake 
