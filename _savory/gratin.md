@@ -10,7 +10,7 @@ Ingredients
  
 * 250g fusilli or farfalle pasta 
 * 2.5 cups of béchamel (see "Basic section" for recipe)
-* 200g shredded chicken or tuna 
+* 200g cooked shredded chicken or canned tuna 
 * 100g sliced mushrooms
 * 100g of canned corn 
 * nutmeg, salt, pepper
