@@ -12,6 +12,7 @@ For the Filling
 * 120g of strawberries 
 * 1 table spoon of cinnamon 
 * 1 table spoon of brown sugar (optional)
+
 For the Crumble dough
 * 150g of sugar 
 * 150 of butter
@@ -24,6 +25,7 @@ Dough: 
 2. In a bowl, mix the sugar and the flour 
 3. Add the butter and with your hands incorporate the butter until you have a crumbly dough
 N.B: You don't want to overwork the dough or the butter will melt, and it will loose its crumbly texture
+
 Filling: 
 1. Cut your apples in thin slices and place them on your pan 
 2. Sprinkle some cinnamon and some sugar on top 
