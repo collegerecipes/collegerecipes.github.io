@@ -7,8 +7,7 @@ header:
 ---
 
 Ingredients
-
-For 15 crêpes  
+ 
 * 2 fresh salmon fillets (with skin on)
 * 1 table spoon ponzu (or lemon juice)
 * 1 table spoon of honey (or brown sugar) 
