@@ -2,8 +2,8 @@
 title: "Matcha-Raspberry Cake with Lemon Glaze"
 excerpt: "Fragrance of the spirit before fragrance of tea-茶の花香より気の花香"
 header:
-  image: /assets/images/apples.jpg
-  teaser: assets/images/apples.jpg
+  image: /assets/images/matcha_cake.jpg
+  teaser: assets/images/matcha_cake.jpg
   ---
 Ingredients
 
