@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/berries_cream.jpg
     url: "/basic/"
     title: "Basic"
-    excerpt: "Things yo momma should have told you"
+    excerpt: "Things yo momma should have taught you"
     btn_label: "Recipes"
     btn_class: "btn--primary"
 ---
