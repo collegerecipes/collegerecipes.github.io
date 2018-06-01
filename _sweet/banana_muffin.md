@@ -26,5 +26,6 @@ Directions
 6. Add the chocolate chips and crushed walnuts
 7. Delicately incorporate the egg whites into the mixture, one third at a time 
 8. Bake for 30 minutes! 
+
 *Ideal for breakfast and snacks*
 
