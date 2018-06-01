@@ -21,7 +21,7 @@ feature_row:
     excerpt: "Impress your friends and destroy your enemies with these sweet units"
     btn_label: "Recipes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/berries_cream.jpg
+  - image_path: /assets/images/basic.jpg
     url: "/basic/"
     title: "Basic"
     excerpt: "Things yo momma should have taught you"
