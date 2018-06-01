@@ -1,6 +1,6 @@
 ---
-title: "Lemon"
-excerpt: "Apple and Strawberry Crumble"
+title: "Apple and Strawberry Crumble"
+excerpt: "An apple crumble a day keeps the doctor away"
 header:
   image: /assets/images/apples.jpg
   teaser: assets/images/apples.jpg
