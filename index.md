@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash-page-dough.jpg
-excerpt: "Grab your grocery list and an empty stomach because you're about to explore something cooler than the top 10 bread varieties or which pasta garnish you are"
+excerpt: "You broke but wanna eat well? Grab your grocery list and an empty stomach because you're about to explore something cooler than the top 10 bread varieties or which pasta garnish you are"
 intro: 
   - excerpt: '(cool kids only)'
 feature_row:
