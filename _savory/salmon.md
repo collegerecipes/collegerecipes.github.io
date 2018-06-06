@@ -9,6 +9,7 @@ header:
 Ingredients
  
 * 2 fresh salmon fillets (with skin on)
+* 2 tablespoons of soya sauce
 * 1 table spoon ponzu (or lemon juice)
 * 1 table spoon of honey (or brown sugar) 
 * 1 teaspoon of grated ginger
