@@ -7,7 +7,6 @@ header:
 ---
 Ingredients
 
-For the Filling
 * 1 egg
 * 110g brown sugar
 * 100g white sugar
@@ -19,7 +18,6 @@ For the Filling
 
 Directions
 
-Dough: 
 1. Beat the butter, vanilla, sugar, and the egg until you obtain a moussy texture
 2. Add the sifted flour and the baking powder, mix with a spatula 
 3. Incorporate the chocolate chips 
