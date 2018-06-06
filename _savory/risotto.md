@@ -8,28 +8,24 @@ header:
 Ingredients
 
 For the Filling
-* 3-4 pink lady OR gala apples
-* 120g of strawberries 
-* 1 table spoon of cinnamon 
-* 1 table spoon of brown sugar (optional)
-
-For the Crumble dough
-* 150g of sugar 
-* 150 of butter
-* 150g of flour 
+* 250g arborio rice
+* 1L chicken broth 
+* 400g of mushrooms  
+* 20cL heavy cream 
+* 10g butter
+* 1 table spoon of grated garlic 
+* 2 shallots 
+* 1 table spoon of olive oil 
+* 100g parmesan 
+* thyme 
 
 Directions
 
-Dough: 
-1. Cut the butter in small cubes of approximately 1cm3
-2. In a bowl, mix the sugar and the flour 
-3. Add the butter and with your hands incorporate the butter until you have a crumbly dough
-N.B: You don't want to overwork the dough or the butter will melt, and it will loose its crumbly texture
-
-Filling: 
-1. Cut your apples in thin slices and place them on your pan 
-2. Sprinkle some cinnamon and some sugar on top 
-3. Add your strawberries cut in half on top of the apples
-4. Sprinkle some sugar on top (optional) 
-5. Add your crumble dough and bake for 35 minutes until the crumble is golden and your fruits have cooked 
-Can be consumed hot or cold with vanilla ice cream or condensed milk! 
+1. In a pan, sauté the garlic in the butter, add the mushrooms and cook for 10 minutes 
+2. Add the cream, thyme, and pepper, and set aside 
+3. In a saucepan, prepare 1L of chicken broth, and set aside 
+4. In a seperate pan, heat up the olive oil, add the chopped shallots and the rice, and cook until the rice becomes translucent
+5. Add one ladle worth of brother into the rice, and stir until all humidity has been absorbed by the rice
+6. Repeat step 5 until you run out of broth 
+7. Add the cream+mushroom prep into the rice, mix well
+8. Turn off the heat, and add the parmesan in right before serving! 
