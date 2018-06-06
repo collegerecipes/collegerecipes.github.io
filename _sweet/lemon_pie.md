@@ -1,6 +1,6 @@
 ---
 title: "Lemon Meringue Pie"
-excerpt: "Feelin sour?"
+excerpt: "Feeling sour?"
 header:
   image: /assets/images/lemon_pie.jpg
   teaser: assets/images/lemon_pie.jpg
