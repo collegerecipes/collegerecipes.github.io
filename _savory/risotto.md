@@ -7,7 +7,6 @@ header:
 ---
 Ingredients
 
-For the Filling
 * 250g arborio rice
 * 1L chicken broth 
 * 400g of mushrooms  
