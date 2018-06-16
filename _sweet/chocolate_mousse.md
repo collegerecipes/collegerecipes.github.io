@@ -7,7 +7,7 @@ header:
 ---
 Ingredients
 
-For the Filling
+* 3 eggs
 * 180g dark chocolate (47%-63%)
 * 2cL fresh whole milk 
 * 10cL heavy cream 
