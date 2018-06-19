@@ -32,7 +32,7 @@ Batter: 
 4. Add the cut onions, the red chili powder, and the Shan Masala powder - cook for 2 minutes
 
 ![nope](/assets/images/shami_1.jpg)
-## Shan Masala Shami Kabab Mix
+# Shan Masala Shami Kabab Mix
 
 5. Add the cumin and turmeric powder
 6. Remove the mixture from the heat and put it in a blender (make sure all moisture is gone) 
