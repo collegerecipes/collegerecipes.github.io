@@ -9,6 +9,7 @@ header:
 Ingredients (15 people)
  
 For the chicken kababs: 
+
 * 750g ground chicken 
 * 1 small red onion 
 * 1 potatoe 
@@ -20,6 +21,7 @@ For the chicken kababs:
 For the rice 
 
 For the sauce: 
+
 * 3 table spoons ghee
 * 5 small red onions (chopped)
 * 7 tomatoes (puréed)
@@ -37,7 +39,7 @@ For the sauce:
 Directions
 
 Chicken Kababs: 
-1. Ina blender, mix all the ingredients for the chicken kabab
+1. In a blender, mix all the ingredients for the chicken kabab
 2. Make 35 balls with the mixture, and set aside (there will be some leftover)
 
 Sauce: 
