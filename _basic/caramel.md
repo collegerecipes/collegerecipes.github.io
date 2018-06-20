@@ -1,6 +1,6 @@
 ---
 title: "Caramel"
-excerpt: "I think love is caramel. Sweet and fragant; always welcome. -J.C"
+excerpt: "I think love is caramel. Sweet and fragant, always welcome. -J.C"
 header:
   image: /assets/images/caramel.jpg
   teaser: assets/images/caramel.jpg
