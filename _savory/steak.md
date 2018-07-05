@@ -2,7 +2,7 @@
 title: "Steak"
 excerpt: "Nice and simple"
 header:
-  image: /assets/images/steak.jpg
+  image: assets/images/steak.jpg
   teaser: assets/images/steak.jpg
 ---
 Ingredients
