@@ -1,30 +1,28 @@
 ---
-title: "Tomatoe Goats Cheese tart"
+title: "Tomatoe Goat's Cheese tart"
 excerpt: "Simply delicious"
 header:
-  image: /assets/images/risotto.jpg
-  teaser: assets/images/risotto.jpg
+  image: /assets/images/tomatoetart.jpg
+  teaser: assets/images/tomatoetart.jpg
 ---
 Ingredients
 
-* 250g arborio rice
-* 1L chicken broth 
-* 400g of mushrooms  
-* 20cL heavy cream 
-* 10g butter
-* 1 table spoon of grated garlic 
-* 2 shallots 
-* 1 table spoon of olive oil 
-* 100g parmesan 
-* thyme 
+* 1 shortbread crust
+* 4 medium Spanish tomatoes on the vine sliced
+* 100g delicate Goat's Cheese  
+* 70g grated emmental
+* 50g mozarella
+* 2 tablespoons of Dijon mustard 
+* 2 tablespoons of olive oil 
+* 1 teaspoon pink peppercorn
+* basil (optional) 
 
 Directions
 
-1. In a pan, sauté the garlic in the butter, add the mushrooms and cook for 10 minutes 
-2. Add the cream, thyme, and pepper, and set aside 
-3. In a saucepan, prepare 1L of chicken broth, and set aside 
-4. In a seperate pan, heat up the olive oil, add the chopped shallots and the rice, and cook until the rice becomes translucent
-5. Add one ladle worth of brother into the rice, and stir until all humidity has been absorbed by the rice
-6. Repeat step 5 until you run out of broth 
-7. Add the cream+mushroom prep into the rice, mix well
-8. Turn off the heat, and add the parmesan in right before serving! 
+1. Unroll your crust on a circular tart dish, poke some holes with a fork and pre-cook for 10 minutes at 180C (350F) 
+2. Remove crust from oven, and spread with the Dijon mustard
+3. Add grated emmental and the mozarella on top of the mustard  
+4. Add the sliced tomatoes over the cheese
+5. Add the sliced goat's cheese over the tomatoes, sprinkle with olive oil
+6. Crush the pink peppercorn with your hands over the tomatoes 
+7. Bake in oven for 20 minutes at 180C (350F)
