@@ -11,7 +11,7 @@ Ingredients
 * 4 medium Spanish tomatoes on the vine sliced
 * 100g delicate Goat's Cheese  
 * 70g grated emmental
-* 50g mozarella
+* 50g mozzarella
 * 2 tablespoons of Dijon mustard 
 * 2 tablespoons of olive oil 
 * 1 teaspoon pink peppercorn
