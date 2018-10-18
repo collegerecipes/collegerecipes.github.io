@@ -2,7 +2,7 @@
 title: "Tomatoe Goat Cheese tart"
 excerpt: "Simply delicious"
 header:
-  image: assets/images/tomatoetart.jpg
+  image: /assets/images/tomatoetart.jpg
   teaser: assets/images/tomatoetart.jpg
 ---
 Ingredients
