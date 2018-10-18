@@ -1,5 +1,5 @@
 ---
-title: "Tomatoe Goat's Cheese tart"
+title: "Tomatoe Goat Cheese tart"
 excerpt: "Simply delicious"
 header:
   image: assets/images/tomatoetart.jpg
