@@ -1,7 +1,5 @@
 # Theme
-#remote_theme                : "mmistakes/minimal-mistakes"
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin       : "default"
 
 # Site Settings
@@ -19,6 +17,7 @@ include:
 plugins:
   - jemoji
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Collections
 collections:
