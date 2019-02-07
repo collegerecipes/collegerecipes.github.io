@@ -8,7 +8,7 @@ header:
 
 Ingredients
  
-* 250g fusilli or farfalle pasta 
+* 150g small grain couscous
 * 2.5 cups of béchamel (see "Basic section" for recipe)
 * 200g cooked shredded chicken or canned tuna 
 * 100g sliced mushrooms
