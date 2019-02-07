@@ -11,10 +11,11 @@ Ingredients
 * 150g small grain couscous
 * 100g cut sun-dried tomatoes
 * 100g corn
-* 100g sliced mushrooms
-* 100g of canned corn 
-* nutmeg, salt, pepper
-* 100g grated cheese (mozarella, emmental, or cheddar)
+* 120g cheddar cubes
+* 100g green olives, cut
+* olive Oil
+* salt, pepper
+* Herbes de Provence
 
 Directions
 
