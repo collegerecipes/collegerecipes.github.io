@@ -9,8 +9,8 @@ header:
 Ingredients
  
 * 150g small grain couscous
-* 2.5 cups of béchamel (see "Basic section" for recipe)
-* 200g cooked shredded chicken or canned tuna 
+* 100g cut sun-dried tomatoes
+* 100g corn
 * 100g sliced mushrooms
 * 100g of canned corn 
 * nutmeg, salt, pepper
