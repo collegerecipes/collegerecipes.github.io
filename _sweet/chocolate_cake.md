@@ -13,6 +13,7 @@ For the Cake 
 * 150g sugar 
 * 150g butter
 * 200g dark chocolate (range:47%-63%)
+* 4 eggs
 * 2 tablespoons flour
 * 120g of almond powder
 
