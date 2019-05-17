@@ -14,7 +14,11 @@ Ingredients:
 5. Olive or vegetable oil
 6. 1.5 cups of rice (basmati preferably) 
 7. Shan Masala "Tikka Seekh Kabab"
-8. One packet of "Dal Tadka Ready-Meals" from Gits 
+![nope](/assets/images/pasta_recipe/seekh.jpg)
+#Shan Masala
+8. One packet of "Dal Tadka Ready-Meals" from Gits
+![nope](/assets/images/pasta_recipe/gits.jpg)
+#Shan Masala
  
 Directions
 
