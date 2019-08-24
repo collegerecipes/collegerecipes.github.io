@@ -16,6 +16,7 @@ Ingredients:
 7. Shan Masala "Tikka Seekh Kabab"
 ![nope](/assets/images/seekh.jpg)
 8. One packet of "Dal Tadka Ready-Meals" from Gits
+
 ![nope](/assets/images/gits.jpg)
 
 Directions
