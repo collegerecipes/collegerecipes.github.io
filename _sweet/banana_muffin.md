@@ -1,6 +1,6 @@
 ---
 title: "Banana, Chocolate Chip, and Walnut Muffin"
-excerpt: "An apple crumble a day keeps the doctor away"
+excerpt: "Bought too many bananas, and now they're all too ripe to eat?"
 header:
   image: /assets/images/muffin.jpg
   teaser: assets/images/muffin.jpg
