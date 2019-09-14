@@ -15,13 +15,14 @@ Ingredients
 * 1 teaspoon of grated garlic
 * 2 tablespoons of olive oil
 * 1 box of Tandoori Masala from Shaan Masala
+* 10 cloves
 
 Directions
 
 Batter: 
 1. In a bowl, combine 1 table spoon of olive oil, half of the Tandoori spice packet, the lemon juice, and the paneer cut in cubes
 2. Heat olive oil in a pot, and sauté the garlic paste
-3. Add the marinated paneer to the pot and cook on high heat until it becomes golden
+3. Add the marinated paneer and the cloves to the pot and cook on high heat until the paneer becomes golden
 4. Add the spinach leaves and cook for 5 minutes on high heat
 5. Add the coconut milk and 10cL of boiled water
 6. Cook for 20 minutes or until water has reduced to half its volume
