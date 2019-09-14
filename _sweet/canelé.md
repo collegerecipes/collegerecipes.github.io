@@ -2,8 +2,8 @@
 title: "Des Canelés Bordelais sans le Bordeau"
 excerpt: "Si toi aussi tu pensais qu'il y avait de la cannelle dans le canelé"
 header:
-  image: /assets/images/canelé.jpg
-  teaser: assets/images/canelé.jpg
+  image: /assets/images/canele.jpg
+  teaser: assets/images/canele.jpg
 ---
 Ingredients
 
