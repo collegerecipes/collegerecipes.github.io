@@ -22,7 +22,7 @@ Directions
 
 1. In a pan, cook your giant couscous and let is cool down in a bowl
 2. Chop your cucumber into small squares and grate the carrot, add to bowl
-3. Add the shredded to the bowl
-4. Zest teh lemon on top of the bowl, and then squeeze the lemon into it
+3. Add the shredded chicken to the bowl
+4. Zest the lemon on top of the bowl, and then squeeze the lemon into it
 5. Crumble the feta cheese over the bowl
-6. Add the sumac, oilive oil, salt, and pepper, and eat away!
+6. Add the sumac, olive oil, salt, pepper, and eat away!
