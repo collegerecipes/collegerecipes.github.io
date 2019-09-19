@@ -2,8 +2,8 @@
 title: "Giant Couscous Salad"
 excerpt: "For a giant burst of flavor"
 header:
-  image: /assets/images/giant.jpg
-  teaser: assets/images/giant.jpg
+  image: /assets/images/giant.JPG
+  teaser: assets/images/giant.JPG
 ---
 Ingredients
 
