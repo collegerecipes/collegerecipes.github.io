@@ -19,7 +19,6 @@ Ingredients
 
 Directions
 
-Batter: 
 1. In a bowl, combine 1 table spoon of olive oil, half of the Tandoori spice packet, the lemon juice, and the paneer cut in cubes
 2. Heat olive oil in a pot, and sauté the garlic paste
 3. Add the marinated paneer and the cloves to the pot and cook on high heat until the paneer becomes golden
