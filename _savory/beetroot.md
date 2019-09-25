@@ -9,7 +9,7 @@ header:
 Ingredients
  
 * 1 purple beetroot, sliced
-* 50g of goat log, sliced
+* 50g of goat's cheese log, sliced
 * 1/2 of a fresh baguette
 * oil (can be flavoured: I recommend yuzu, but truffle oil is good too"
 * Balsamic glaze or balsamic cream (can be flavoured)
