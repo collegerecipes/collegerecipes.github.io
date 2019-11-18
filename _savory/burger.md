@@ -1,54 +1,49 @@
 ---
-title: "Close the Ultimate Burger"
-excerpt: "It's vegetables, so it's gotta be healthy!"
+title: "Close to the Ultimate Burger"
+excerpt: "It's vegetables, so it's gotta be healthy, right?"
 header:
   image: /assets/images/burger.jpg
   teaser: assets/images/burger.jpg
 ---
 
-Ingredients (15 people)
- 
-For the chicken kababs: 
+Ingredients:
 
-* 750g ground chicken 
-* 1 small red onion 
-* 1 potatoe 
-* 1 teaspoon ginger paste 
-* 1 teaspoon garlic paste
-* 1 bunch coriander 
-* 2 small green chili peppers 
+* 250g ground beef
+* 3 burger buns, cut in two horizontaly
+* 1 egg
+* panko crumbs
+* 1.5 teaspoon garlic paste
+* 1.5 teaspoon ginger paste
+* 1 Shan masala packet of Tikka Masala
+* Emmental cheese slices
+* 1 beef tomatoe, sliced
+* iceberg lettuce
+* pickles
+* 1 red onion, sliced
+* balsamic vinegar
+* 2 table spoons of brown sugar
+* olive oil
+* butter
+* sauces (mayonnaise, ketchup, Tabasco...)
 
-For the rice 
+For the patties: 
 
-For the sauce: 
+1. In a bowl, add the ground beef, Shan masala, ginger paste, garlic paste, 1 egg, panko crumbs, and olive oil
+2. Mix well, and set aside in the fridge for 4-6 hours
+3. Form some balls with the meat, and flatten it
+4. Fry each side on high heat for 2.5 minutes
+5. Decrease the heat, add a slice of Emmental on each patty, cover, and let it melt for 2 mn
 
-* 3 table spoons ghee
-* 5 small red onions (chopped)
-* 7 tomatoes (puréed)
-* 165mL coconut milk (5.5 floz)
-* 2 potatoes
-* 1 tablespoon garlic paste 
-* 1 tablespoon ginger paste
-* 1 teaspoon red chili powder
-* 1 teaspoon turmeric 
-* 1 tablespoon of mixed coriander seed powder and cumin seed powder 
-* 12 cardamom pods
-* 3 teaspoon tomato paste
-* 1 teaspoon salt
+For the onions: 
+1. In a saucepan, sautee the onions with olive oil, add the balsamic vinegar and sugar
+2. Decrease the heat, and let it caramelize for 10 minutes
+3. Set aside
 
-Directions
+For the buns: 
+1. Melt some butter in a pan, golden each side of the bun, set aside
 
-Chicken Kababs: 
-1. In a blender, mix all the ingredients for the chicken kabab
-2. Make 35 balls with the mixture, and set aside (there will be some leftover)
+Building the burger:
+1. Put the sauces you want on each side of the bun
+2. From bottom to top, add: the lettuce, the tomatoes, the patties, the onions, and the pickles
+3. Close the burger, bite into it, let the sauce drip on your fingers, and enter the doors of heaven!
 
-Sauce: 
-1. In a pot, melt the ghee, and add your finely chopped onions, cook until the onions become colorless
-2. Add the ginger paste, and the garlic paste, and cook for 2 minutes 
-3. Add the puréed tomatoes, the red chili powder, the turmeric, and the cumin/coriander mix, and cook until the ghee has seperated from the tomato for about 20 minutes on medium to low heat 
-4. Add your chicken kababs to the mixture and cook for 10 minutes 
-5. Add the tomato paste, and mix until all tomato paste has been diluted in the mixture 
-6. Add the cardamom pods, and cook for 5 minutes 
-7. Add the potatoes, cover the pot, and cook the sauce for about another 25 minutes on medium to low heat, set the sauce aside 
-
-Rice: 
