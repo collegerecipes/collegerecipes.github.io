@@ -2,8 +2,8 @@
 title: "Apple and Strawberry Crumble"
 excerpt: "An apple crumble a day keeps the doctor away"
 header:
-  image: /assets/images/apples.jpg
-  teaser: assets/images/apples.jpg
+  image: /assets/images/crumble.jpg
+  teaser: assets/images/crumble.jpg
 ---
 Ingredients
 
