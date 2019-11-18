@@ -3,7 +3,7 @@ title: "Apple strudel"
 excerpt: "House of Habsburg pastry, without the genetic toll"
 header:
   image: /assets/images/strudel.jpg
-  teaser: assets/images/strudel.jpg
+  teaser: /assets/images/strudel.jpg
 ---
 Ingredients
 
