@@ -1,6 +1,6 @@
 ---
 title: "Steak"
-excerpt: "Nice and simple"
+excerpt: "Nice and simple: a recipe from my favourite engineer"
 header:
   image: assets/images/steak.jpg
   teaser: assets/images/steak.jpg
