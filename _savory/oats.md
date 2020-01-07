@@ -2,8 +2,8 @@
 title: "Masala Oats"
 excerpt: "Spice up your daily fiber intake"
 header:
-  image: /assets/images/oats.jpeg
-  teaser: assets/images/oats.jpeg
+  image: /assets/images/oats.jpg
+  teaser: assets/images/oats.jpg
 ---
 Ingredients
 
