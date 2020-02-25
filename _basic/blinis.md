@@ -2,8 +2,8 @@
 title: "Blinis"
 excerpt: "A delicious Christmas canvas!"
 header:
-  image: /assets/images/blinis.jpeg
-  teaser: assets/images/blinis.jpeg
+  image: /assets/images/blinis.jpg
+  teaser: assets/images/blinis.jpg
 ---
 Ingredients
 
