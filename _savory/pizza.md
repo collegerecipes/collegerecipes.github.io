@@ -9,7 +9,7 @@ header:
 Ingredients
 
 For the dough (1 pizza) 
-* 160g white flour
+* 160g tipo 00 flour (or white flour if you don't have tipo 00)
 * 90mL water
 * 1 pinch of salt
 * 1g of fresh yeast
