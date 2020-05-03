@@ -1,6 +1,6 @@
 ---
 title: "My mom's famous Ramadhan cake"
-excerpt: "Something holy delicious"
+excerpt: "Something that makes this month even holier"
 header:
   image: /assets/images/ramadhan.jpg
   teaser: assets/images/ramadhan.jpg
