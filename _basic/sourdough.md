@@ -10,14 +10,14 @@ The recipe below makes two loaves, so you can always use half of the ingredients
 I didn't use a banneton or dutch oven, so my recipe is slightly different.
 Check out to see how Joshua makes it: <https://www.youtube.com/watch?v=eod5cUxAHRM&t=690s>*
 
-#Ingredients for the whole recipe (starter+dough): 
+# Ingredients for the whole recipe (starter+dough): 
 
 * 845g all-purpose flour + more for dusting surfaces and your proofing bag
 * 220g whole-wheat flour
 * 273g unbleached bread flour
 * 400g stone-ground rye flour
 
-##Schedule for the starter
+## Schedule for the starter
 
 **Day 1:** 
 Record the weight of your jar
@@ -60,9 +60,9 @@ This is your maintenance feeding, your starter should be ready to be used.
 * 100g water at room temperature
 
 
-##Directions for making your sourdough bread (this is a two-day long process)
+## Directions for making your sourdough bread (this is a two-day long process)
 
-###Ingredients:
+### Ingredients:
 
 **Levain:**
 * 45 mature starter
@@ -77,7 +77,7 @@ This is your maintenance feeding, your starter should be ready to be used.
 * 175g stone-ground whole-wheat flour
 * 660g filtered water at 35°C
 
-###Directions
+### Directions
 
 **9am:** Making the levain
 Combine Levain ingredients in a glass bowl, mix, and set aside in an oven with the light on (no heat) or in any warm room until 15:00
