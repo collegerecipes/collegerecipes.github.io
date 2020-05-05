@@ -1,6 +1,6 @@
 ---
-title: "Blinis"
-excerpt: "A delicious Christmas canvas!"
+title: "Sourdough bread"
+excerpt: "You gotta earn that one"
 header:
   image: /assets/images/sourdough.jpg
   teaser: assets/images/sourdough.jpg
