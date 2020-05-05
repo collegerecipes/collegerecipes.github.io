@@ -7,7 +7,7 @@ header:
 ---
 *I credit this recipe to Joshua Weissman. This is a long but satisfying odyssey.
 The recipe below makes two loaves, so you can always use half of the ingredients for the dough (not the starter).
-I didn't use a banneton or dutch oven, so my recipe is slightly different than his.
+I didn't use a banneton or dutch oven, so my recipe is slightly different than his. Shoutout to TreacyG for giving me his COVID-19 bread tips as well. 
 Check out this link to see how Joshua makes it: <https://www.youtube.com/watch?v=eod5cUxAHRM&t=690s>*
 
 # Ingredients for the whole recipe (starter+dough): 
@@ -122,6 +122,6 @@ Heat a LODGE cast-iron in your oven at 260°C for an hour
 
 **10:00am:**
 
-Remove the cast-iron pan from the oven and dust it with flour. Place your dough on it, score it (optional) and cover with aluminium. Bake in oven for 20mn with a tray of water at the bottom. After 20mn, remove the aluminium and the tray from the oven and bake for another 25mn at 242°C. 
+Remove the cast-iron pan from the oven and dust it with flour. Place your dough on it, score it and cover with aluminium. Bake in oven for 20mn with a tray of water at the bottom. After 20mn, remove the aluminium and the tray from the oven and bake for another 25mn at 242°C. 
 
 That's it, you've made your own sourdough bread! Enjoy with butter and sea salt (or whatever your heart desires).
