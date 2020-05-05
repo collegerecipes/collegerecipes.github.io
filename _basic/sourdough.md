@@ -18,6 +18,7 @@ Check out to see how Joshua makes it: <https://www.youtube.com/watch?v=eod5cUxAH
 * 400g stone-ground rye flour
 
 ##Schedule for the starter
+
 **Day 1:** 
 Record the weight of your jar
 In the jar, add the following: 
