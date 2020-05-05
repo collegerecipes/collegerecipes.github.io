@@ -7,8 +7,8 @@ header:
 ---
 *I credit this recipe to Joshua Weissman. This is a long but satisfying odyssey.
 The recipe below makes two loaves, so you can always use half of the ingredients for the dough (not the starter).
-I didn't use a banneton or dutch oven, so my recipe is slightly different.
-Check out to see how Joshua makes it: <https://www.youtube.com/watch?v=eod5cUxAHRM&t=690s>*
+I didn't use a banneton or dutch oven, so my recipe is slightly different than his.
+Check out this link to see how Joshua makes it: <https://www.youtube.com/watch?v=eod5cUxAHRM&t=690s>*
 
 # Ingredients for the whole recipe (starter+dough): 
 
