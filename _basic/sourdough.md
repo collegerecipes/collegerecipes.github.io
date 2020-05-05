@@ -62,6 +62,7 @@ This is your maintenance feeding, your starter should be ready to be used.
 ##Directions for making your sourdough bread (this is a two-day long process)
 
 ###Ingredients:
+
 **Levain:**
 * 45 mature starter
 * 45g unbleached all-purpose flour
@@ -101,4 +102,9 @@ This is the most technical part, I suggest you watch YouTube videos for that par
 Place your loaves in bowls that are lined with floured kitchen towel. Cover with plastic wrap and place in fridge overnight. 
 
 **9:00am the next day:**
-Heat your oven at 260C
+Heat a LODGE cast-iron in your oven at 260°C for an hour
+
+**10:00am:**
+Remove the cast-iron pan from the oven and dust it with flour. Place your dough on it, score it (optional) and cover with aluminium. Bake in oven for 20mn with a tray of water at the bottom. After 20mn, remove the aluminium and the tray from the oven and bake for another 25mn at 242°C. 
+
+That's it, you've made your own sourdough bread! Enjoy with butter and sea salt (or whatever your heart desires).
