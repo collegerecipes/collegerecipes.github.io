@@ -1,6 +1,6 @@
 ---
 title: "Saag Paneer Sam's way"
-excerpt: "Unexpected encounters bringing good recipes"
+excerpt: "Happy encounters and good recipes"
 header:
   image: /assets/images/sam.jpg
   teaser: assets/images/sam.jpg
