@@ -11,6 +11,7 @@ Ingredients for sauce
 * 250g paneer
 * 500g of baby spinach leaves
 * 1 small onion
+* 1 red chili
 * 1.5 teaspoon of grated ginger
 * 1.5 teaspoon of grated garlic
 * 4 tablespoons of ghee
